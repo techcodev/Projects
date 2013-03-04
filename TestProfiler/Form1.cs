@@ -34,6 +34,8 @@ namespace TestProfiler
             GetSomeResponseHtml("http://www.google.com");
             GetSomeResponseHtml("http://www.yahoo.com");
             GetSomeResponseHtml("http://www.nodus.com");
+
+            GetSomeResponseHtml("http://www.outlook.com");
         }
 
         private void btnTest3_Click(object sender, EventArgs e)
